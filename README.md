@@ -164,9 +164,9 @@ docker cp <id>:/captures/protocol1.pcap .
 | ------------ | ----------------------------------------------------------------------------- |
 | Priyank  | Filtered & analyzed PCAP files using Wireshark                                |
 | Deepith  | Developed major parts of client & server logic                                |
-| Ravalika | Created protocol design + message structure (`message.py`, protocol workflow) |
+| Ravalitha | Created protocol design + message structure (`message.py`, protocol workflow) |
 | Siddesh  | Dockerized server & client, created environment, generated PCAP for analysis  |
-| Manish   | Helped containerize applications and generate traffic for PCAP capture        |
+| Manisha   | Helped containerize applications and generate traffic for PCAP capture        |
 
 ---
 
